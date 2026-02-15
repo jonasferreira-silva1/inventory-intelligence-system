@@ -109,8 +109,8 @@ Criamos o **SmartStock** - um sistema completo que transforma o controle de esto
 
 <div align="center">
 
-<img width="447" height="307" alt="image" src="https://github.com/user-attachments/assets/badb0768-be67-4647-afe2-c17bcb303503" />
 
+<img width="611" height="413" alt="Tela de login" src="https://github.com/user-attachments/assets/479c6aa3-31ad-4ef3-93b9-79879f7ad5f6" />
 
 
 </div>
@@ -138,8 +138,8 @@ A primeira impressão é fundamental! A tela de login do SmartStock foi projetad
 
 <div align="center">
 
-<img width="695" height="305" alt="image" src="https://github.com/user-attachments/assets/3f44686c-8b8d-41a4-8088-7c75dde48c58" />
 
+<img width="935" height="413" alt="Tela principal" src="https://github.com/user-attachments/assets/cc41d953-b90c-4850-9f8c-4874c7f83a08" />
 
 </div>
 
